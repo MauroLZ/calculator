@@ -105,6 +105,7 @@ clearButton.addEventListener('click', () => {
     secondNumber = '';
     operator = undefined;
     screenText.textContent = '';
+    equation = '';
 });
 
 // Creating a variable that will hold the delete button
